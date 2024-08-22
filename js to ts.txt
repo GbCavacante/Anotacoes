@@ -1,0 +1,20 @@
+1 - npm install -g typescript
+2 - tsc --init
+3 - npm install --save-dev @types/<nome-da-biblioteca>
+4-npm install --save-dev @types/node
+npm install --save-dev @types/react
+
+
+VERIFICAÇÃO 
+
+1-mkdir meu-projeto-typescript cd meu-projeto-typescript               
+
+
+2-npm init -y
+
+3-npm install -g typescript
+
+4-tsc --init
+
+5-mkdir src
+mkdir dist
